@@ -53,5 +53,7 @@ spreadplayers 0 0 75 172 false @a
 
 effect give @a minecraft:saturation 40
 
+bossbar set minecraft:reload players @a[team=object]
+
 tellraw @a {"text":"ИГРА НАЧАЛАСЬ!","color":"red"}
 playsound cgm:item.grenade.pin voice @a
