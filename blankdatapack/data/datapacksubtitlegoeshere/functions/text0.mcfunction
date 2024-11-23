@@ -1,0 +1,1 @@
+title @a[team=object] actionbar {"text":"Вы готовы к атаке.", "color":"#cc00ff"}

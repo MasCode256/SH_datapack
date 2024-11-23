@@ -1,0 +1,39 @@
+{
+  "pools": [
+    {
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "item",
+          "name": "cgm:tactical_stock",
+          "weight": 1
+        },
+	{
+          "type": "item",
+          "name": "cgm:weighted_stock",
+          "weight": 1
+        },
+	{
+          "type": "item",
+          "name": "cgm:specialised_grip",
+          "weight": 1
+        },
+	{
+          "type": "item",
+          "name": "cgm:long_scope",
+          "weight": 1
+        },
+	{
+          "type": "item",
+          "name": "cgm:medium_scope",
+          "weight": 1
+        },
+	{
+          "type": "item",
+          "name": "cgm:silencer",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

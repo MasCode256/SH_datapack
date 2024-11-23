@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "rolls": 15,
+      "entries": [
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 7
+        },
+	{
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "cgm:advanced_bullet",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "cgm:shell",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "cgm:grenade",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "cgm:stun_grenade",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "codorg2:hunterradio",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "codorg2:shocker",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "weight": 3
+        }
+      ]
+    }
+  ]
+}

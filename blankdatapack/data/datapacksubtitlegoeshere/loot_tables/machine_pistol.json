@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "rolls": 8,
+      "entries": [
+        {
+          "type": "item",
+          "name": "cgm:machine_pistol",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:light_stock",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

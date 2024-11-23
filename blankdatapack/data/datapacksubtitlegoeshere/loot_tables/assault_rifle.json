@@ -1,0 +1,49 @@
+{
+  "pools": [
+    {
+      "rolls": 7,
+      "entries": [
+        {
+          "type": "item",
+          "name": "cgm:assault_rifle",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:basic_bullet",
+          "weight": 4
+        },
+        {
+          "type": "item",
+          "name": "cgm:light_grip",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
